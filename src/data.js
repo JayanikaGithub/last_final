@@ -25,7 +25,7 @@ export const sliderItems = [
   export const categories = [
     {
       id: 1,
-      img: "https://scontent.fcmb1-2.fna.fbcdn.net/v/t45.5328-4/282377507_5070059073078507_8905825957736851796_n.jpg?stp=dst-jpg_p960x960&_nc_cat=103&ccb=1-7&_nc_sid=c48759&_nc_ohc=_NvlIvaBIWkAX_5otpP&_nc_ht=scontent.fcmb1-2.fna&oh=00_AT_6oWe2fnPesTz6Os1gGvGtFTqrlhkh-Jt6nEEnWkXq_A&oe=62CE4908",
+      img: "https://stylesatlife.com/wp-content/uploads/2017/04/checked-navy-blue-shirt-forb-women.jpg",
       title: "SHIRT STYLE!",
       cat:"women"
     },
