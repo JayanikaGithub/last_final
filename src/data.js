@@ -31,19 +31,19 @@ export const sliderItems = [
     },
     {
       id: 2,
-      img: "https://scontent.fcmb1-2.fna.fbcdn.net/v/t45.5328-4/283493400_7489587521083218_2824616072587987751_n.jpg?stp=dst-jpg_p960x960&_nc_cat=108&ccb=1-7&_nc_sid=c48759&_nc_ohc=8y5-RGrw6FsAX8f2UjJ&tn=1PyL_p61C6NLNxcf&_nc_ht=scontent.fcmb1-2.fna&oh=00_AT9ymP37yo1HbXmtrfz0MDocc7nH5DE6IBriZngU9JKU5g&oe=62CEE40D",
+      img: "https://ds393qgzrxwzn.cloudfront.net/resize/c500x500/cat1/img/images/0/sN2MSRzWjK.jpg",
       title: "OFFICE WEAR",
       cat:"coat"
     },
     {
       id: 3,
-      img: "https://scontent.fcmb1-2.fna.fbcdn.net/v/t45.5328-4/286409360_5330520680303647_3594611637901910975_n.jpg?stp=dst-jpg_p960x960&_nc_cat=108&ccb=1-7&_nc_sid=c48759&_nc_ohc=MkbUc7VQby4AX9axwzj&_nc_ht=scontent.fcmb1-2.fna&oh=00_AT9ZxlL1Ji06SWr_aHXdpj5a8hb-nhYEig451CIQLQ1xHA&oe=62CF10CF",
+      img: "https://stylesatlife.com/wp-content/uploads/2021/04/High-Low-Maroon-Party-Dress.jpg",
       title: "PARTY WEAR",
       cat:"jeans"
     },
     {
       id: 3,
-      img: "https://scontent.fcmb1-2.fna.fbcdn.net/v/t39.30808-6/290417548_5039727309472922_6941759171909079969_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=hQWi1NFqO68AX9oKbs2&_nc_ht=scontent.fcmb1-2.fna&oh=00_AT_YUy_avZaxUK3mFQl-90F06vPL227gWUyzduIGLzoUQg&oe=62CFDCEB",
+      img: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/business-casual-women-jumpsuit-1575992876.jpg",
       title: "CASUAL WEAR",
     },
   ];
